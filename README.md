@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 https://github.com/echicouamalthus/flutter_pageView/assets/113396442/1ae19d8e-2c42-414a-9336-fc5b3b008b17
 
+https://github.com/echicouamalthus/flutter_pageView/assets/113396442/06b5687c-f93e-4a7c-a0bd-2daba49052e7
